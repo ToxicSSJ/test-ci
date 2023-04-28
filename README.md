@@ -9,4 +9,4 @@ Purpose of files:
 - `lib.py` Helper routine for unittest
 - `tests` Unit test classes
 
-To use it as source of CI, create a new directory, run `git init` in it, and copy files to that directory. x4
+To use it as source of CI, create a new directory, run `git init` in it, and copy files to that directory. x5
